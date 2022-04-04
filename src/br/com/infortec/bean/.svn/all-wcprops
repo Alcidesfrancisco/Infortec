@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Infortec/!svn/ver/74/Infortec/src/br/com/infortec/bean
+END
+Telefone.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Infortec/!svn/ver/57/Infortec/src/br/com/infortec/bean/Telefone.java
+END
+OrdemServico.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Infortec/!svn/ver/63/Infortec/src/br/com/infortec/bean/OrdemServico.java
+END
+Compras.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Infortec/!svn/ver/66/Infortec/src/br/com/infortec/bean/Compras.java
+END
+ChequePagamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Infortec/!svn/ver/56/Infortec/src/br/com/infortec/bean/ChequePagamento.java
+END
+ItensCompras.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Infortec/!svn/ver/66/Infortec/src/br/com/infortec/bean/ItensCompras.java
+END
+Unidade.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Infortec/!svn/ver/56/Infortec/src/br/com/infortec/bean/Unidade.java
+END
+Cheque.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Infortec/!svn/ver/56/Infortec/src/br/com/infortec/bean/Cheque.java
+END
+Servico.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Infortec/!svn/ver/60/Infortec/src/br/com/infortec/bean/Servico.java
+END
+Pagamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Infortec/!svn/ver/56/Infortec/src/br/com/infortec/bean/Pagamento.java
+END
+CategoriaProduto.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Infortec/!svn/ver/39/Infortec/src/br/com/infortec/bean/CategoriaProduto.java
+END
+Funcionario.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/74/Infortec/src/br/com/infortec/bean/Funcionario.java
+END
+Vendas.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Infortec/!svn/ver/68/Infortec/src/br/com/infortec/bean/Vendas.java
+END
+ProdutoCompras.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Infortec/!svn/ver/66/Infortec/src/br/com/infortec/bean/ProdutoCompras.java
+END
+Banco.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Infortec/!svn/ver/58/Infortec/src/br/com/infortec/bean/Banco.java
+END
+Departamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Infortec/!svn/ver/61/Infortec/src/br/com/infortec/bean/Departamento.java
+END
+Cliente.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Infortec/!svn/ver/73/Infortec/src/br/com/infortec/bean/Cliente.java
+END
+ItensVendas.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/68/Infortec/src/br/com/infortec/bean/ItensVendas.java
+END
+Endereco.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Infortec/!svn/ver/51/Infortec/src/br/com/infortec/bean/Endereco.java
+END
+Estoque.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Infortec/!svn/ver/74/Infortec/src/br/com/infortec/bean/Estoque.java
+END
+Fornecedor.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Infortec/!svn/ver/51/Infortec/src/br/com/infortec/bean/Fornecedor.java
+END
+Produto.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Infortec/!svn/ver/59/Infortec/src/br/com/infortec/bean/Produto.java
+END
+ProdutoVendas.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Infortec/!svn/ver/63/Infortec/src/br/com/infortec/bean/ProdutoVendas.java
+END
+FormaPgto.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Infortec/!svn/ver/46/Infortec/src/br/com/infortec/bean/FormaPgto.java
+END

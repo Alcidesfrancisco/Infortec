@@ -1,0 +1,13 @@
+Falta os DAO de:
+
+Funcionario
+Ordem de Servico
+Itens Compra
+Itens Venda
+Produto has Itens Venda
+Produto has Itens Compra
+Vendas
+Itens Venda
+pagamento
+
+Bean

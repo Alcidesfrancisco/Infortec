@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Infortec/!svn/ver/77/Infortec/src/br/com/infortec/view
+END
+BancoView.form
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Infortec/!svn/ver/76/Infortec/src/br/com/infortec/view/BancoView.form
+END
+MenuView.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/MenuView.java
+END
+EstoqueView.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/EstoqueView.form
+END
+LoginView.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/LoginView.java
+END
+FornecedorView.form
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/FornecedorView.form
+END
+ChequeView.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/ChequeView.java
+END
+CategoriaProdutoView.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/CategoriaProdutoView.java
+END
+ConsultarCompraView.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/ConsultarCompraView.java
+END
+ProdutoView.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/ProdutoView.form
+END
+VendasView.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/VendasView.java
+END
+DepartamentoView.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/DepartamentoView.java
+END
+ClienteView.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/ClienteView.java
+END
+BuscaClienteView.form
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Infortec/!svn/ver/75/Infortec/src/br/com/infortec/view/BuscaClienteView.form
+END
+OrdemServicoView.form
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Infortec/!svn/ver/75/Infortec/src/br/com/infortec/view/OrdemServicoView.form
+END
+PagamentoContasView.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/PagamentoContasView.java
+END
+BuscaCepView.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Infortec/!svn/ver/72/Infortec/src/br/com/infortec/view/BuscaCepView.java
+END
+MenuView.form
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/MenuView.form
+END
+LoginView.form
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Infortec/!svn/ver/75/Infortec/src/br/com/infortec/view/LoginView.form
+END
+ChequeView.form
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/ChequeView.form
+END
+LocalizarProdutoView.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Infortec/!svn/ver/75/Infortec/src/br/com/infortec/view/LocalizarProdutoView.java
+END
+CategoriaProdutoView.form
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/CategoriaProdutoView.form
+END
+FormaPgtoView.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/FormaPgtoView.java
+END
+ConsultarCompraView.form
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Infortec/!svn/ver/75/Infortec/src/br/com/infortec/view/ConsultarCompraView.form
+END
+VendasView.form
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/VendasView.form
+END
+BuscaFornecedorView.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Infortec/!svn/ver/75/Infortec/src/br/com/infortec/view/BuscaFornecedorView.java
+END
+ComprasView.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/ComprasView.java
+END
+DepartamentoView.form
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/DepartamentoView.form
+END
+ClienteView.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/ClienteView.form
+END
+PagamentoContasView.form
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/PagamentoContasView.form
+END
+BuscaCepView.form
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Infortec/!svn/ver/72/Infortec/src/br/com/infortec/view/BuscaCepView.form
+END
+UnidadeView.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/75/Infortec/src/br/com/infortec/view/UnidadeView.java
+END
+ServicoView.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/75/Infortec/src/br/com/infortec/view/ServicoView.java
+END
+BuscaProdutoView.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Infortec/!svn/ver/67/Infortec/src/br/com/infortec/view/BuscaProdutoView.java
+END
+FuncionarioView.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/FuncionarioView.java
+END
+LocalizarProdutoView.form
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Infortec/!svn/ver/75/Infortec/src/br/com/infortec/view/LocalizarProdutoView.form
+END
+FormaPgtoView.form
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/FormaPgtoView.form
+END
+BancoView.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/BancoView.java
+END
+EstoqueView.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/EstoqueView.java
+END
+FornecedorView.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/FornecedorView.java
+END
+ComprasView.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/ComprasView.form
+END
+BuscaFornecedorView.form
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Infortec/!svn/ver/75/Infortec/src/br/com/infortec/view/BuscaFornecedorView.form
+END
+UnidadeView.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/75/Infortec/src/br/com/infortec/view/UnidadeView.form
+END
+BuscaProdutoView.form
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Infortec/!svn/ver/67/Infortec/src/br/com/infortec/view/BuscaProdutoView.form
+END
+ProdutoView.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/ProdutoView.java
+END
+ServicoView.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/75/Infortec/src/br/com/infortec/view/ServicoView.form
+END
+FuncionarioView.form
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/FuncionarioView.form
+END
+BuscaClienteView.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Infortec/!svn/ver/75/Infortec/src/br/com/infortec/view/BuscaClienteView.java
+END
+OrdemServicoView.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/view/OrdemServicoView.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Infortec/!svn/ver/73/Infortec/src/br/com/infortec/util
+END
+MecanicaCriptografaUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Infortec/!svn/ver/32/Infortec/src/br/com/infortec/util/MecanicaCriptografaUtil.java
+END
+Relogio.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Infortec/!svn/ver/64/Infortec/src/br/com/infortec/util/Relogio.java
+END
+LimitadorCaracteres.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Infortec/!svn/ver/73/Infortec/src/br/com/infortec/util/LimitadorCaracteres.java
+END
+DataConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/util/DataConverter.java
+END
+ValidaCPF_CNPJ.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Infortec/!svn/ver/47/Infortec/src/br/com/infortec/util/ValidaCPF_CNPJ.java
+END
+EncriptaSenha.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Infortec/!svn/ver/27/Infortec/src/br/com/infortec/util/EncriptaSenha.java
+END
+Utilitarios.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/73/Infortec/src/br/com/infortec/util/Utilitarios.java
+END
+CasasDecimais.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Infortec/!svn/ver/73/Infortec/src/br/com/infortec/util/CasasDecimais.java
+END
+DiferencaEntreDatas.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Infortec/!svn/ver/66/Infortec/src/br/com/infortec/util/DiferencaEntreDatas.java
+END

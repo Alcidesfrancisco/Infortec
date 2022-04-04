@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.0" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd">
+  <persistence-unit name="InfortecPU" transaction-type="RESOURCE_LOCAL">
+    <provider>oracle.toplink.essentials.PersistenceProvider</provider>
+    <class>br.com.infortec.bean.Funcionarios</class>
+    <class>br.com.infortec.bean.Cliente</class>
+    <shared-cache-mode>ALL</shared-cache-mode>
+    <properties>
+      <property name="toplink.jdbc.user" value=""/>
+      <property name="toplink.jdbc.password" value=""/>
+      <property name="toplink.jdbc.url" value=""/>
+      <property name="toplink.jdbc.driver" value=""/>
+    </properties>
+  </persistence-unit>
+  <persistence-unit name="infortecPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>br.com.infortec.view.Cheque</class>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/infortec"/>
+      <property name="javax.persistence.jdbc.password" value=""/>
+      <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+      <property name="javax.persistence.jdbc.user" value="root"/>
+    </properties>
+  </persistence-unit>
+</persistence>

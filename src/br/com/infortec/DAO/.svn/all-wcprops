@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Infortec/!svn/ver/74/Infortec/src/br/com/infortec/DAO
+END
+CategoriaProdutoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Infortec/!svn/ver/41/Infortec/src/br/com/infortec/DAO/CategoriaProdutoDAO.java
+END
+PagamentoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/69/Infortec/src/br/com/infortec/DAO/PagamentoDAO.java
+END
+FuncionarioDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Infortec/!svn/ver/74/Infortec/src/br/com/infortec/DAO/FuncionarioDAO.java
+END
+VendasDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Infortec/!svn/ver/72/Infortec/src/br/com/infortec/DAO/VendasDAO.java
+END
+ProdutoComprasDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Infortec/!svn/ver/66/Infortec/src/br/com/infortec/DAO/ProdutoComprasDAO.java
+END
+BancoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Infortec/!svn/ver/59/Infortec/src/br/com/infortec/DAO/BancoDAO.java
+END
+ItensVendasDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Infortec/!svn/ver/73/Infortec/src/br/com/infortec/DAO/ItensVendasDAO.java
+END
+ClienteDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Infortec/!svn/ver/73/Infortec/src/br/com/infortec/DAO/ClienteDAO.java
+END
+DepartamentoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Infortec/!svn/ver/64/Infortec/src/br/com/infortec/DAO/DepartamentoDAO.java
+END
+EstoqueDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/DAO/EstoqueDAO.java
+END
+FornecedorDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Infortec/!svn/ver/59/Infortec/src/br/com/infortec/DAO/FornecedorDAO.java
+END
+EnderecoClienteDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Infortec/!svn/ver/74/Infortec/src/br/com/infortec/DAO/EnderecoClienteDAO.java
+END
+ProdutoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Infortec/!svn/ver/78/Infortec/src/br/com/infortec/DAO/ProdutoDAO.java
+END
+FormaPgtoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Infortec/!svn/ver/46/Infortec/src/br/com/infortec/DAO/FormaPgtoDAO.java
+END
+TelefoneDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Infortec/!svn/ver/57/Infortec/src/br/com/infortec/DAO/TelefoneDAO.java
+END
+OrdemServicoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Infortec/!svn/ver/63/Infortec/src/br/com/infortec/DAO/OrdemServicoDAO.java
+END
+ComprasDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Infortec/!svn/ver/66/Infortec/src/br/com/infortec/DAO/ComprasDAO.java
+END
+ChequePgtoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Infortec/!svn/ver/69/Infortec/src/br/com/infortec/DAO/ChequePgtoDAO.java
+END
+ItensComprasDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Infortec/!svn/ver/68/Infortec/src/br/com/infortec/DAO/ItensComprasDAO.java
+END
+UnidadeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Infortec/!svn/ver/58/Infortec/src/br/com/infortec/DAO/UnidadeDAO.java
+END
+ServicoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Infortec/!svn/ver/60/Infortec/src/br/com/infortec/DAO/ServicoDAO.java
+END
+ChequeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Infortec/!svn/ver/64/Infortec/src/br/com/infortec/DAO/ChequeDAO.java
+END
